@@ -1,1 +1,1 @@
-thisis file 1.txt
+this is new txt if file 1.txt
